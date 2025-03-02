@@ -14,4 +14,4 @@ This project is a player maintained unofficial leaderboard for collection amount
 
 ## License
 
-[CraftersMC Colection Leaderboard](https://github.com/craftersmc-collection-leaderboard/craftersmc-collection-leaderboard/) is licensed under the [MIT](https://choosealicense.com/licenses/mit/) license. See the [LICENSE](https://github.com/craftersmc-collection-leaderboard/craftersmc-collection-leaderboard.github.io/blob/main/LICENSE) file for details.
+[CraftersMC Colection Leaderboard](https://github.com/craftersmc-collection-leaderboard/craftersmc-collection-leaderboard.github.io) is licensed under the [MIT](https://choosealicense.com/licenses/mit/) license. See the [LICENSE](https://github.com/craftersmc-collection-leaderboard/craftersmc-collection-leaderboard.github.io/blob/main/LICENSE) file for details.
